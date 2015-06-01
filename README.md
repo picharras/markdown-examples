@@ -3,15 +3,13 @@
 ```
 # H1
 ## H2
-### H3
-#### H4
-##### H5
-###### H6
 ```
 
 # H1
 ## H2
-### H3
-#### H4
-##### H5
-###### H6
+
+```javascript
+function(var1, var2) {
+  alert("Hola mundo!");
+}
+```
